@@ -1,4 +1,4 @@
-##Oddiy Flutterdagi Coffe UI app 
+##Oddiy Flutterdagi Coffe UI app ##
 
 Ushbu lohani orginal dizayini:
 https://www.figma.com/design/qsdZEJhFWzxUkdWdCtxYpC/Freebie-Coffee-App-UI-UX-Design--Community-?node-id=1-8112
